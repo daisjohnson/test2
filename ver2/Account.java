@@ -2,7 +2,7 @@ package ver2;
 
 public class Account {
 	// Instance variable, only available inside this class.
-		private double balance;
+		private double balance; //Fall 2023 comment for balance
 		private String name;
 		// Constructor
 		public Account(double balance) {
